@@ -1,0 +1,14 @@
+{
+    "categories": [
+      {
+        "name": "C1",
+        "description": "D2",
+        "color": "#000000"
+      },
+      {
+        "name": "C2",
+        "description": "D1",
+        "color": "#000000"
+      }
+    ]
+}
