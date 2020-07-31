@@ -40,7 +40,9 @@ function RegisterCategory() {
 
   useEffect(() => {
     if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categories';
+      const URL = window.location.hostname.includes('localhost')
+        ? 'http://localhost:8080/categories'
+        : 'https://timaoflix.herokuapp.com/categories';
       fetch(URL)
         .then(async (response) => {
           if (response.ok) {
