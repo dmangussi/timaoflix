@@ -7,22 +7,23 @@ function Carousel({
   ignoreFirstVideo,
   category,
 }) {
-  const categoryTitle = category.titulo;
-  const categoryColor = category.cor;
+  const categoryName = category.name;
+  const categoryColor = category.color;
   const categoryExtraLink = category.link_extra;
-  const videos = category.videos;
+  const { videos } = category;
   return (
     <VideoCardGroupContainer>
-      {categoryTitle && (
+      {categoryName && (
         <>
           <Title style={{ backgroundColor: categoryColor || 'red' }}>
-            {categoryTitle}
+            {categoryName}
           </Title>
-          {categoryExtraLink && 
+          {categoryExtraLink
+            && (
             <ExtraLink href={categoryExtraLink.url} target="_blank">
-              {categoryExtraLink.text}  
+              {categoryExtraLink.text}
             </ExtraLink>
-          }
+            )}
         </>
       )}
       <Slider>
@@ -32,9 +33,9 @@ function Carousel({
           }
 
           return (
-            <SliderItem key={video.titulo}>
+            <SliderItem key={video.name}>
               <VideoCard
-                videoTitle={video.titulo}
+                videoTitle={video.name}
                 videoURL={video.url}
                 categoryColor={categoryColor}
               />
