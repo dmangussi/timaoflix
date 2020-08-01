@@ -2,11 +2,11 @@
   "categories": [
     {
       "id": 1,
-      "name": "Front End",
+      "name": "Títulos",
       "color": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Títulos Brabos",
+        "url": ""
       }
     },
     {
@@ -46,63 +46,63 @@
     {
       "id": 1,
       "categoryId": 1,
-      "name": "SEO com React",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "name": "2012 FIFA Club World Cup",
+      "url": "https://www.youtube.com/watch?v=R3n3-e_xmUY"
     },
     {
       "id": 2,
       "categoryId": 1,
-      "name": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-    },
+      "name": "2000 FIFA Club World Cup",
+      "url": "https://www.youtube.com/watch?v=C7W0R85i2rI"
+    },	
     {
       "id": 3,
       "categoryId": 1,
-      "name": "Componentização com VanillaJS #AluraMais",
-      "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-    },
+      "name": "2012 Libertadores Final",
+      "url": "https://www.youtube.com/watch?v=dGEB6QUjWWw"
+    },		
     {
       "id": 4,
       "categoryId": 1,
-      "name": "Pare de chutar e aprenda a display: inline #01",
-      "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-    },
+      "name": "2017 Campeonato Brasileiro",
+      "url": "https://www.youtube.com/watch?v=64_kcEbc7jM"
+    },								
     {
       "id": 5,
       "categoryId": 1,
-      "name": "Template String: Interpolando strings com JavaScript #AluraMais",
-      "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-    },
+      "name": "2015 Campeonato Brasileiro",
+      "url": "https://www.youtube.com/watch?v=4Ft4rat65oQ"
+    },							
     {
       "id": 6,
       "categoryId": 1,
-      "name": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-    },
+      "name": "2011 Campeonato Brasileiro",
+      "url": "https://www.youtube.com/watch?v=ybLSPJGgUvc"
+    },			
     {
       "id": 7,
       "categoryId": 1,
-      "name": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-    },
+      "name": "2005 Campeonato Brasileiro",
+      "url": "https://www.youtube.com/watch?v=Vr16BcT8L8w"
+    },		
     {
       "id": 8,
-      "categoryId": 2,
-      "name": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-      "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-    },
+      "categoryId": 1,
+      "name": "1999 Campeonato Brasileiro",
+      "url": "https://www.youtube.com/watch?v=oa-gdUcqBQo"
+    },		
     {
       "id": 9,
-      "categoryId": 2,
-      "name": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-      "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-    },
+      "categoryId": 1,
+      "name": "1998 Campeonato Brasileiro",
+      "url": "https://www.youtube.com/watch?v=OKaCCEm0otg"
+    },			
     {
       "id": 10,
-      "categoryId": 2,
-      "name": "Programei 4 robôs que criam vídeos para mim no YouTube",
-      "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-    },
+      "categoryId": 1,
+      "name": "1990 Campeonato Brasileiro",
+      "url": "https://www.youtube.com/watch?v=53ba292XtmU"
+    },	
     {
       "id": 11,
       "categoryId": 2,
