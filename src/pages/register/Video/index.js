@@ -13,9 +13,9 @@ function RegisterVideo() {
   const categoryNames = categories.map(({ name }) => name);
 
   const { handleChange, values } = useForm({
-    name: 'Name Default',
-    url: 'https://www.youtube.com/watch?v=-nYNd6EuZHU',
-    category: 'Front End',
+    name: 'Novo Títulos',
+    url: 'https://www.youtube.com/watch?v=fk7x2JZ1w3g',
+    category: 'Títulos',
   });
 
   useEffect(() => {

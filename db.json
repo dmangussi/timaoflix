@@ -3,43 +3,27 @@
     {
       "id": 1,
       "name": "Títulos",
-      "color": "#6BD1FF",
-      "link_extra": {
-        "text": "Títulos Brabos",
-        "url": ""
-      }
+      "color": "#6BD1FF"
     },
     {
       "id": 2,
-      "name": "Back End",
-      "color": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      }
+      "name": "Goleadas",
+      "color": "#00C86F"
     },
     {
       "id": 3,
-      "name": "Data Science e Inteligência Artificial",
-      "color": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/cursos-online-mobile"
-      }
+      "name": "Top 10",
+      "color": "#9cd33b"
     },
     {
       "id": 4,
-      "name": "Filmes",
+      "name": "Jogos Históricos ",
       "color": "orange"
     },
     {
       "id": 5,
-      "name": "Games",
-      "color": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      }
+      "name": "Ídolos",
+      "color": "red"
     }
   ],
   "videos": [
@@ -106,86 +90,188 @@
     {
       "id": 11,
       "categoryId": 2,
-      "name": "API: Dicionário do Programador",
-      "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+      "name": "Corinthians 5x2 Vasco - Brasileirão 2017",
+      "url": "https://www.youtube.com/watch?v=W1BYPQwi0NU"
     },
     {
-      "id": 12,
-      "categoryId": 2,
-      "name": "Usando Git Direito",
-      "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+        "id": 12,
+        "categoryId": 2,
+        "name": "Corinthians 4x0 Flamengo - Brasileirão 2016",
+        "url": "https://www.youtube.com/watch?v=bWd9KnJltsc"
     },
     {
-      "id": 13,
-      "categoryId": 3,
-      "name": "Teste de Turing",
-      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        "id": 13,
+        "categoryId": 2,
+        "name": "Corinthians 6x1 São Paulo - Brasileirão 2015",
+        "url": "https://www.youtube.com/watch?v=Fdop4xb42Sw"
     },
     {
-      "id": 14,
-      "categoryId": 3,
-      "name": "O que é Data Science?",
-      "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        "id": 14,
+        "categoryId": 2,
+        "name": "Atlético-PR 1x4 Corinthians - Brasileirão 2015",
+        "url": "https://www.youtube.com/watch?v=TTzbiIAENL0"
     },
     {
-      "id": 15,
-      "categoryId": 3,
-      "name": "Melhor forma de aprender Python",
-      "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        "id": 15,
+        "categoryId": 2,
+        "name": "Corinthians 4x0 Flamengo - Brasileirão 2013",
+        "url": "https://www.youtube.com/watch?v=ZgvS4GRXbYk"
     },
     {
-      "id": 16,
-      "categoryId": 3,
-      "name": "Como ingressar no mercado de Data Science?",
-      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        "id": 16,
+        "categoryId": 2,
+        "name": "Corinthians 5x0 São Paulo - Brasileirão 2011",
+        "url": "https://www.youtube.com/watch?v=HZTS6aD2UTI"
     },
     {
-      "id": 17,
-      "categoryId": 4,
-      "name": "Interestellar",
-      "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        "id": 17,
+        "categoryId": 2,
+        "name": "Corinthians 7x1 Santos - Brasileirão 2005",
+        "url": "https://www.youtube.com/watch?v=oupHg-wwcGI"
     },
     {
       "id": 18,
+      "categoryId": 3,
+      "name": "10 Melhores Viradas do Corinthians",
+      "url": "https://www.youtube.com/watch?v=rdlIlSJOedU"
+    },
+    {
+        "id": 19,
+        "categoryId": 3,
+        "name": "10 Defesas Mais Marcantes de Cassio Pelo Corinthians",
+        "url": "https://www.youtube.com/watch?v=H-w2_qhaxxk"
+    },
+    {
+        "id": 20,
+        "categoryId": 3,
+        "name": "5 melhores jogos do Corinthians na Arena",
+        "url": "https://www.youtube.com/watch?v=bjaXQWwIoq4"
+    },
+    {
+        "id": 21,
+        "categoryId": 3,
+        "name": "10 Melhores Viradas em Mata Mata do Corinthians",
+        "url": "https://www.youtube.com/watch?v=RvfhkUa1Wq4"
+    },
+    {
+        "id": 22,
+        "categoryId": 3,
+        "name": "10 Gols Mais Bonitos do Corinthians na Arena",
+        "url": "https://www.youtube.com/watch?v=3gaLL885phY"
+    },
+    {
+        "id": 23,
+        "categoryId": 3,
+        "name": "10 melhores gols do Corinthians contra o Palmeiras",
+        "url": "https://www.youtube.com/watch?v=Bnkm5sTmIGU"
+    },
+    {
+        "id": 24,
+        "categoryId": 3,
+        "name": "10 Melhores Gols de Contra-Ataque do Corinthians",
+        "url": "https://www.youtube.com/watch?v=WpiP-X1-1Bs"
+    },
+    {
+        "id": 25,
+        "categoryId": 3,
+        "name": "10 Gols Mais Bonitos de Cobertura do Corinthians",
+        "url": "https://www.youtube.com/watch?v=P3WtMyg2KuM"
+    },
+    {
+      "id": 26,
       "categoryId": 4,
-      "name": "Gattaca",
-      "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+      "name": "São Paulo 1x2 Corinthians - Recopa 2013",
+      "url": "https://www.youtube.com/watch?v=0bxJGp0YJAQ"
     },
     {
-      "id": 19,
+        "id": 27,
+        "categoryId": 4,
+        "name": "Corinthians 2x0 Internacional - Copa do Brasil 2009",
+        "url": "https://www.youtube.com/watch?v=eysZb4c9SCo"
+    },
+    {
+        "id": 28,
+        "categoryId": 4,
+        "name": "Corinthians 2x1 Santos - Paulistão 2013 (FINAL)",
+        "url": "https://www.youtube.com/watch?v=f4ZzdR6p5rM"
+    },
+    {
+        "id": 29,
+        "categoryId": 4,
+        "name": "Corinthians 2x1 Vasco - Brasileirão 2011",
+        "url": "https://www.youtube.com/watch?v=UeaWgqNnHmU"
+    },
+    {
+        "id": 30,
+        "categoryId": 4,
+        "name": "Atletico-MG 0x3 Corinthians - Brasileirão 2015",
+        "url": "https://www.youtube.com/watch?v=oI_xy7GDGms"
+    },
+    {
+        "id": 31,
+        "categoryId": 4,
+        "name": "Palmeiras 0x1 Corinthians - Paulistão 2015",
+        "url": "https://www.youtube.com/watch?v=EgoDFLBjvxI"
+    },
+    {
+        "id": 32,
+        "categoryId": 4,
+        "name": "Corinthians 5x2 Palmeiras - Paulistão 1997",
+        "url": "https://www.youtube.com/watch?v=DCRaHeVDDBU"
+    },
+    {
+        "id": 33,
+        "categoryId": 4,
+        "name": "Corinthians 2x0 Cruzeiro - Brasileirão 1998",
+        "url": "https://www.youtube.com/watch?v=u8aT97XAyhw&"
+    },
+    {
+        "id": 34,
+        "categoryId": 4,
+        "name": "Corinthians 2x1 São Paulo - Paulistão 2009",
+        "url": "https://www.youtube.com/watch?v=kWXlxZhKFX0"
+    },    
+    {
+      "id": 35,
       "categoryId": 4,
-      "name": "A Chegada",
-      "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+      "name": "Corinthians 2x1 Atletico MG - Brasileirão 2011",
+      "url": "https://www.youtube.com/watch?v=kA9B8glOtqY"
     },
     {
-      "id": 20,
-      "categoryId": 4,
-      "name": "Feitiço do Tempo",
-      "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-    },
-    {
-      "id": 21,
+      "id": 36,
       "categoryId": 5,
-      "name": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "name": "Todos os gols de Ronaldo pelo Corinthians",
+      "url": "https://www.youtube.com/watch?v=62XKT-yAaZU"
     },
     {
-      "id": 22,
-      "categoryId": 5,
-      "name": "Assassins Creed Valhalla",
-      "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+        "id": 37,
+        "categoryId": 5,
+        "name": "As 10 Defesas Mais Marcantes de Cassio Pelo Corinthians",
+        "url": "https://www.youtube.com/watch?v=H-w2_qhaxxk"
     },
     {
-      "id": 23,
-      "categoryId": 5,
-      "name": "God of War 4",
-      "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+        "id": 38,
+        "categoryId": 5,
+        "name": "Os 10 Melhores Gols de Falta de Marcelinho Pelo Corinthians",
+        "url": "https://www.youtube.com/watch?v=edVIky_NsYQ"
     },
     {
-      "id": 24,
-      "categoryId": 5,
-      "name": "Resident Evil 8",
-      "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-    }
+        "id": 39,
+        "categoryId": 5,
+        "name": "Os 10 Melhores Gols de Paulinho Pelo Corinthians",
+        "url": "https://www.youtube.com/watch?v=s028k1QaAG0"
+    },
+    {
+        "id": 40,
+        "categoryId": 5,
+        "name": "Os 5 Melhores Gols de Ralf Pelo Corinthians",
+        "url": "https://www.youtube.com/watch?v=3hZkJcJFuWI"
+    },
+    {
+        "id": 41,
+        "categoryId": 5,
+        "name": "Os 10 Melhores Gols de Tevez pelo Corinthians",
+        "url": "https://www.youtube.com/watch?v=xaO1y8w4mdo"
+    }    
   ]
 }
